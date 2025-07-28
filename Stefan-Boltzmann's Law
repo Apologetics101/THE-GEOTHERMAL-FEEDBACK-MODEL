@@ -1,14 +1,17 @@
 Total Heat Generated During the Flood Year:
-1.8147760035296923e+30 J
+1.8147760035296923 × 10³⁰ J
 
 Phase 1: Heating Phase (First 5 Months)
-Removed 26.1% of total heat:
-0.261 × 1.8147760035296923e+30 = 4.7365653692124969e+29 J
+Removed 26.1% of total heat
+= 0.261 × 1.8147760035296923 × 10³⁰
+= 4.7365653692124969 × 10²⁹ J
 
 Phase 2: Cooling Phase (Final 7 Months)
-Removed 50.9% of total heat:
-0.509 × 1.8147760035296923e+30 = 9.2372098579661338e+29 J
+Removed 50.9% of total heat
+= 0.509 × 1.8147760035296923 × 10³⁰
+= 9.2372098579661338 × 10²⁹ J
 
 Phase 3: Post-Flood Removal Phase
-Remaining 23.0% of heat removed after the Flood:
-0.23 × 1.8147760035296923e+30 = 4.1739848081182923e+29 J
+Remaining 23.0% of heat removed after the Flood
+= 0.23 × 1.8147760035296923 × 10³⁰
+= 4.1739848081182923 × 10²⁹ J
